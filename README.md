@@ -18,3 +18,16 @@ Cada tarea presentará la siguiente estructura, siendo N el número de la tarea:
 ```
 
 En donde TareaN.ipynb es la compilación de todas las partes en Tarea_N/, completando así la tarea.
+
+
+## Partes de cada uno
+
+Porfavor, cada integrante modifique este README para indicar qué parte de qué tarea está haciendo:
+
+
+### Tarea_1:
+
+- Parte 1: Bastián
+- Parte 2: 
+- Parte 3:
+- Parte 4: Josué
