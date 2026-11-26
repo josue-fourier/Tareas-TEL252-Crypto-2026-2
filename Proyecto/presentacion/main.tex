@@ -22,7 +22,7 @@
 
 \graphicspath{{../informe-tel252/figuras/}}
 
-\newif\ifborrador \borradortrue
+\newif\ifborrador \borradortrue   % <- cambiar a \borradorfalse para la presentación
 \newcommand{\pend}[1]{\ifborrador\textcolor{red}{\textbf{[#1]}}\fi}
 \newcommand{\ok}{\textcolor{green!50!black}{\checkmark}}
 \definecolor{azul}{HTML}{4C72B0}
@@ -31,7 +31,7 @@
 \title{Firmas digitales basadas en hash}
 \subtitle{Costo de una alternativa postcuántica frente a ECDSA}
 \author{Equipo \pend{nombre}\\[2pt]
-  \small Josué N. Leiva Poblete \;·\; \pend{integrante} \;·\; \pend{integrante} \;·\; \pend{integrante}}
+  \small Josué Leiva \;·\; Sebastián Moya \;·\; Cristian Pizarro \;·\; Bastián Reyes}
 \institute{TEL252 Criptografía y Seguridad de la Información\\Universidad Técnica Federico Santa María}
 \date{}
 

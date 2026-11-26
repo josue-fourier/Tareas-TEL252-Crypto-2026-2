@@ -1,5 +1,7 @@
 # Proyecto TEL252: firmas digitales basadas en hash
 
+Pendientes, roles y cómo compilar: [TODO.md](TODO.md).
+
 ```
 Proyecto/
 ├── informe-tel252/      Informe LaTeX (main.tex, referencias.bib)
