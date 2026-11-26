@@ -42,7 +42,7 @@ Actualizado: 26-nov.
 - [ ] Dudas para Berioska: si la portada, las referencias y el anexo cuentan en las 7 páginas (hoy el PDF tiene 9 con portada e índices); si vale usar una librería para ECDSA; dónde publicar el video
 - [ ] Conseguir un grupo para la retroalimentación cruzada, y el anexo con la retroalimentación dada y recibida
 - [ ] Revisar la introducción y la metodología
-- [ ] Nombre del equipo y Roles USM de Seba, Cristian y Bastián (portada del informe)
+- [ ] Roles USM de Seba, Cristian y Bastián (portada del informe). Equipo: **Hashquantum (grupo 12)**
 - [ ] Revisión final y PDF de entrega (`\borradorfalse`)
 
 ### P2 y P4
