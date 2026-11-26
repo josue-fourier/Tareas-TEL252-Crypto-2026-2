@@ -65,7 +65,7 @@
 
 % --- Datos del proyecto -----------------------------------------------
 \newcommand{\titulo}{Firmas digitales basadas en hash: costo de una alternativa postcuántica frente a ECDSA}
-\newcommand{\urlcodigo}{\url{https://github.com/USUARIO/REPO}}   % <- reemplazar
+\newcommand{\urlcodigo}{\url{https://github.com/josue-fourier/Tareas-TEL252-Crypto-2026-2/tree/main/Proyecto/codigo}}
 \newcommand{\urlvideo}{\url{https://youtu.be/VIDEO}}             % <- reemplazar
 
 \begin{document}
@@ -232,7 +232,7 @@ Con $w=16$, la firma del árbol de Merkle mide 2\,308 bytes, 36,1 veces la de EC
   \label{fig:resultados}
 \end{figure}
 
-\textbf{Prueba de concepto.} \pend{P1: resultado de las tres pruebas por esquema; en el ataque, bits fijos y cantidad de intentos observados frente a los esperados ($\approx 2^8$); resultado del rechazo de índice en Merkle.}
+\textbf{Prueba de concepto.} En el árbol de Merkle ($h=4$, $w=16$) las 16 firmas verificaron; la firma de un mensaje alterado y una firma hecha con otro árbol fueron rechazadas; y el firmante rechazó el decimoséptimo mensaje con el error de claves agotadas. \pend{P1: resultado de las tres pruebas para Lamport y WOTS; en el ataque, bits fijos y cantidad de intentos observados frente a los esperados ($\approx 2^8$).}
 
 % =====================================================================
 \section{Análisis}
