@@ -3,6 +3,7 @@
 ```
 Proyecto/
 ├── informe-tel252/      Informe LaTeX (main.tex, referencias.bib)
+├── presentacion/        Beamer de la presentación (usa las figuras del informe)
 │   └── figuras/         PDF de las figuras (los genera codigo/bench.ipynb)
 └── codigo/
     ├── merkle_wots.py   H (SHA-256), chain, WOTS y MerkleTree: importar desde aquí, no copiar
